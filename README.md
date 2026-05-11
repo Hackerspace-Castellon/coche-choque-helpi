@@ -1,6 +1,6 @@
-# Share Horizons – Helpi Bumper Cars
+# Ayudame3D– Helpi Bumper Cars
 
-Proyecto de coches de choque interactivos desarrollado para Helpi / Share Horizons.
+Proyecto de coches de choque para los Helpis de Ayudame3D.
 
 ---
 
