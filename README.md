@@ -2,6 +2,8 @@
 
 Proyecto de coches de choque para los Helpis de Ayudame3D.
 
+Link al printables [https://www.printables.com/model/1882094-coches-de-choques-helpi-ayudame-3d]
+
 ---
 
 # Montaje del coche
